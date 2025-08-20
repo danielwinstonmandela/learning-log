@@ -1,3 +1,10 @@
+## August 19, 2025  
+- Today I learned how to use Git and Github!
+- git commit, git init, git add, git pull, git push
+- I learned branches, repositories, different types of permissions etc!
+
+---
+
 ## August 18, 2025  
 ### Course Summary  
 Today I finished learning key concepts related to **logic, algorithms, computational thinking, and logic gates**.  
